@@ -438,7 +438,7 @@ body {
 }
 .dhanush:hover
 {
-  background-image: url("../Assets/gre/new-gre/Dhanush-back.png");
+  background-image: url("./Assets/gre/new-gre/Dhanush-back.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -446,7 +446,7 @@ body {
 }
 .neehit:hover
 {
-  background-image: url("../Assets/gre/new-gre/neehit-back.png");
+  background-image: url("./Assets/gre/new-gre/neehit-back.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -454,7 +454,7 @@ body {
 }
 .sathish:hover
 {
-  background-image: url("../Assets/gre/new-gre/sathish-back.png");
+  background-image: url("./Assets/gre/new-gre/sathish-back.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -462,7 +462,7 @@ body {
 }
 /* section-6 */
 .section-6-width {
-  background-image: url("../Assets/gre/new-gre/Ellipse.png");
+  background-image: url("./Assets/gre/new-gre/Ellipse.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: contain;
