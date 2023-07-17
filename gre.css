@@ -8,22 +8,20 @@ body {
   .width-for-sec {
     width: 78vw;
     margin: auto;
-  } 
+  }
 }
+
 @media (max-width: 1024px) {
-  .popup-1-cols
-  {
+  .popup-1-cols {
     width: 80% !important;
-}
+  }
 }
 
 .section-2-gre {
   padding-bottom: 3rem;
-  background: linear-gradient(
-    135deg,
-    rgba(241, 140, 187, 0.4) 0%,
-    rgba(255, 255, 255, 0) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(241, 140, 187, 0.4) 0%,
+      rgba(255, 255, 255, 0) 100%);
 }
 
 .head-h1 {
@@ -148,7 +146,7 @@ body {
 
 /* section-4 */
 .section-4-gre {
-  background: linear-gradient(to bottom left,rgb(241 140 187 / 25%) 0,#fff,rgb(241 140 187 / 25%) 100%);
+  background: linear-gradient(to bottom left, rgb(241 140 187 / 25%) 0, #fff, rgb(241 140 187 / 25%) 100%);
   padding-top: 1rem;
   padding-bottom: 5vw;
 }
@@ -174,13 +172,11 @@ body {
 
 /* Section - 7 */
 .gmat-profile-sec-7 {
-  background: linear-gradient(
-    196deg,
-    rgba(253, 217, 239, 0.58) 0%,
-    rgba(252, 206, 234, 0.59) 0.01%,
-    rgba(253, 217, 239, 0.33) 99.98%,
-    rgba(255, 199, 233, 0.39) 99.99%
-  );
+  background: linear-gradient(196deg,
+      rgba(253, 217, 239, 0.58) 0%,
+      rgba(252, 206, 234, 0.59) 0.01%,
+      rgba(253, 217, 239, 0.33) 99.98%,
+      rgba(255, 199, 233, 0.39) 99.99%);
   padding-bottom: 2rem;
 }
 
@@ -213,8 +209,8 @@ body {
   margin-top: 7vw;
   margin-bottom: 4rem;
 }
-.secction-8-split
-{
+
+.secction-8-split {
   width: 60%;
 }
 
@@ -436,33 +432,34 @@ body {
 .mobile-dot-up {
   margin: 0px !important;
 }
-.dhanush:hover
-{
-  background-image: url("./Assets/gre/new-gre/Dhanush-back.png");
+
+.dhanush:hover {
+  background-image: url("https://assets.thecareerlabs.com/landing_pages/gre/crack-gre-2023/Dhanush-back.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   box-shadow: 0px 8px 35px 0px rgba(137, 16, 73, 0.41);
 }
-.neehit:hover
-{
-  background-image: url("./Assets/gre/new-gre/neehit-back.png");
+
+.neehit:hover {
+  background-image: url("https://assets.thecareerlabs.com/landing_pages/gre/crack-gre-2023/neehit-back.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   box-shadow: 0px 8px 35px 0px rgba(137, 16, 73, 0.41);
 }
-.sathish:hover
-{
-  background-image: url("./Assets/gre/new-gre/sathish-back.png");
+
+.sathish:hover {
+  background-image: url("https://assets.thecareerlabs.com/landing_pages/gre/crack-gre-2023/sathish-back.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   box-shadow: 0px 8px 35px 0px rgba(137, 16, 73, 0.41);
 }
+
 /* section-6 */
 .section-6-width {
-  background-image: url("./Assets/gre/new-gre/Ellipse.png");
+  background-image: url("https://assets.thecareerlabs.com/landing_pages/gre/crack-gre-2023/Ellipse.png");
   background-position: top;
   background-repeat: no-repeat;
   background-size: contain;
@@ -534,32 +531,30 @@ body {
 }
 
 .section-3-gre {
-  background: linear-gradient(to bottom right,rgb(241 140 187 / 25%) 0,#fff,rgb(241 140 187 / 25%) 100%);
+  background: linear-gradient(to bottom right, rgb(241 140 187 / 25%) 0, #fff, rgb(241 140 187 / 25%) 100%);
 }
 
 .section-6-gre {
-  background: linear-gradient(
-    to bottom right,
-    white 0%,
-    white,
-    rgba(241, 140, 187, 0.25) 100%
-  );
+  background: linear-gradient(to bottom right,
+      white 0%,
+      white,
+      rgba(241, 140, 187, 0.25) 100%);
   padding-bottom: 6vw;
 }
-.section-3-gre .section-3-col-1
-{
+
+.section-3-gre .section-3-col-1 {
   padding-bottom: 5vw;
 }
 
 @media screen and (max-width: 767px) {
-  .btn-col a:last-child
-  {
+  .btn-col a:last-child {
     border-bottom: 0px solid !important;
   }
-  .section-3-col-1
-  {
+
+  .section-3-col-1 {
     padding-top: 0px;
   }
+
   /* section-2 */
   .section-2-gre {
     padding-bottom: 1em;
@@ -793,8 +788,8 @@ body {
     font-size: 3.5vw;
     text-align: center;
   }
-  .secction-8-split
-  {
+
+  .secction-8-split {
     width: 100%;
   }
 
@@ -1114,12 +1109,13 @@ body {
   padding: 3.5rem 6rem;
 } */
 .gre-sec-5 {
-  background-image: url("../Assets/gre/new-gre/form-sec.png");
+  background-image: url("https://assets.thecareerlabs.com/landing_pages/gre/crack-gre-2023/form-sec.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   padding: 4rem 0;
 }
+
 .gre-sec-5 .head-col {
   padding: 3rem 0;
   padding-bottom: 4rem;
@@ -1181,7 +1177,6 @@ body {
   font-size: 1rem;
   font-weight: 500;
   line-height: 1.3rem;
-  text-transform: capitalize;
 }
 
 .gre-sec-5 .gre-sec-5-cont-form form .check-box {
@@ -1243,7 +1238,7 @@ body {
 }
 
 .popup-1-cols {
-  margin: 2rem auto;
+  margin: 2rem auto 1.5rem;
   padding: 1rem;
   display: flex;
   justify-content: space-around;
@@ -1359,7 +1354,8 @@ body {
   display: flex;
 }
 
-.prev:hover,.next:hover {
+.prev:hover,
+.next:hover {
   background-color: #891049 !important;
 }
 
@@ -1516,6 +1512,7 @@ a:hover .active-none {
 
 /* ************-------------Mobile View------------***************** */
 @media (max-width: 766px) {
+
   /* popup */
   .firstpopup .popup-1-cols {
     flex-direction: column;
@@ -1616,6 +1613,7 @@ a:hover .active-none {
     text-align: center;
     line-height: 2rem;
   }
+
   .gre-sec-1 .sec-1-cols .head-cont-col .content-col ul {
     margin-left: -1rem;
     margin-right: -1rem;
