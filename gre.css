@@ -197,6 +197,10 @@ body {
 }
 
 /* sectionn-8 */
+.section-8-gre {
+  margin-bottom: 6vw;
+}
+
 .section-8-width {
   width: 75%;
   margin: auto;
@@ -547,6 +551,12 @@ body {
 }
 
 @media screen and (max-width: 767px) {
+
+  /* Section-8 */
+  .section-8-gre {
+    margin-bottom: 10vw;
+  }
+
   .btn-col a:last-child {
     border-bottom: 0px solid !important;
   }
