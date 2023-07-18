@@ -803,7 +803,7 @@ body {
 
   .section-8-absolute button {
     padding: 1em 1.5rem;
-    font-size: 10px;
+    font-size: 11px;
   }
 
   /* section-6 */
@@ -834,6 +834,7 @@ body {
   .card-split {
     gap: 5vw;
     margin-top: 1vw;
+    align-items: center;
   }
 
   /* Google */
