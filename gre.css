@@ -1514,20 +1514,34 @@ a:hover .active-none {
 @media (max-width: 766px) {
 
   /* popup */
+
+  .popup-1-cols .content
+  {
+    width: 65%;
+  }
+  .popup-1-cols .btn-col
+  {
+    width: 35%;
+  }
   .firstpopup .popup-1-cols {
-    flex-direction: column;
+    flex-direction: row;
     gap: 3vw;
-    margin: auto;
+    margin: 2rem auto 1rem;
   }
 
   .firstpopup .popup-1-cols h5 {
-    font-size: 3.8vw;
+    font-size: 3vw;
+    padding: 0px;
   }
 
   .firstpopup .popup-1-cols .btn-col button {
-    font-size: 4.5vw;
+    font-size: 3.2vw;
+    padding: 2vw 5vw;
   }
-
+  .popup-1-cols .content
+  {
+    display: initial;
+  }
   /* enable on mobile */
   .header-cols .mobile-views {
     display: block;
