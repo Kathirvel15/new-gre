@@ -1673,8 +1673,9 @@ a:hover .active-none {
   }
 
   .marquee-sec .marquee-sec-cols .head-col h5 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     text-align: center;
+    padding: 0px;
   }
 
   .marquee-sec .marquee-sec-cols .content-col {
